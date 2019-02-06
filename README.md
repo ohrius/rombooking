@@ -9,3 +9,6 @@ Databasemodell for booking av møterom
 
 3.time: Fortsette på databasemodell. Lage et oppsett for å sjekke reservasjoner
         en gitt person har gjort.
+
+4.time: Ekspore modeller av hittil arbeid og laste opp på github. Se an muligheten
+        til å bruke trigger for å validere om et møterom er opptatt.
