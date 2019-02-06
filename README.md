@@ -6,3 +6,6 @@ Databasemodell for booking av møterom
 
 2.time: Starte på en databasemodell i StarUML og lage et oppsett for reservering
         av et møterom.
+
+3.time: Fortsette på databasemodell. Lage et oppsett for å sjekke reservasjoner
+        en gitt person har gjort.
